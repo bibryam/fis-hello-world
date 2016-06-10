@@ -24,6 +24,7 @@
     <id>offlineRepo</id>
     <mirrorOf>*</mirrorOf>
     <name>Mirror of the world outside.</name>
+    <!--  python -mSimpleHTTPServer 8888 0.0.0.0 -->
     <url>http://offline-repo:8888</url>
   </mirror>
 </mirrors>
